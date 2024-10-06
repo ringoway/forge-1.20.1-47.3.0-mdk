@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    [
+      {"tag": "forge:raw_beef"},
+      {"tag": "forge:raw_pork"}
+    ],
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "russian_delight:classic_shchi"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0
+}

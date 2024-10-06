@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "russian_delight:item/clean_water_bucket"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "creativetab.russian_delight_tab": "Русская кухня",
+  "item.russian_delight.classic_shchi": "Классическое Щи",
+  "tooltip.russian_delight.classic_shchi.tooltip": "Сытость: (01:00)",
+  "item.russian_delight.salt": "Соль",
+  "tooltip.russian_delight.salt.tooltip": "Лучше это не кушать...",
+
+  "item.russian_delight.clean_water_bucket": "Ведро чистой воды",
+  "item.russian_delight.clean_water_bottle": "Бутылочка чистой воды",
+  "fluid_type.russian_delight.clean_water_fluid": "Чистая вода",
+
+  "block.russian_delight.fermentation_barrel" : "Бочка для ферментации"
+}

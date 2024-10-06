@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "clean_water_bucket",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "russian_delight:clean_water_bucket"
+}

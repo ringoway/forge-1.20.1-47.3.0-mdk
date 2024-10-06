@@ -1,0 +1,13 @@
+{
+  "creativetab.russian_delight_tab": "Russian delight",
+  "item.russian_delight.classic_shchi": "Classic Shchi",
+  "tooltip.russian_delight.classic_shchi.tooltip": "Saturation: (00:30)",
+  "item.russian_delight.salt": "Salt",
+  "tooltip.russian_delight.salt.tooltip": "It's better not to eat this...",
+
+  "item.russian_delight.clean_water_bucket": "Clean water bucket",
+  "item.russian_delight.clean_water_bottle": "Clean water bottle",
+  "fluid_type.russian_delight.clean_water_fluid": "Clean water",
+
+  "block.russian_delight.fermentation_barrel" : "Fermentation barrel"
+}
